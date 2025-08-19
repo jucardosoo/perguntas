@@ -1,0 +1,23 @@
+criaCartao(
+    'futebol',
+    'o que significa "hat trick"'
+    'é quando um jogador faz 3 gols no mesmo jogo'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual a capital da Russia?'
+    'a capital da Rússia é Moscou' 
+)
+
+criaCartao(
+    'futebol'
+    'qual foi o primeiro t ima a ser pentacampeão na copa do Brasil?'
+    'o primeiro tima a ser pentacampeão foi o Grêmio'
+)
+
+criaCartao(
+    'geografia',
+    'qual é a capital do Brasil??'
+    'a caopital do Brasil é Brasília '
+)
